@@ -86,17 +86,21 @@ a {
     font-size: 1.4em;
     padding: 2px;
     line-height: 1.5em;
-    color: #525252;
+    color: #1C1C1C;
 }
 
 .social a i:hover{
-    color: #303030;
+    color: #575757;
     transform: scale(1.1);
 }
 
 .med-width-whitespace {
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
+}
+
+blockquote footer{
+    color: #545454;
 }
 
 /* SECTION PRESENTATION */
@@ -482,6 +486,10 @@ a[data-lightbox]:hover img {
     color: #FFFFFF!important;
 }
 
+.black{
+    color: #1C1C1C;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -522,12 +530,12 @@ a[data-lightbox]:hover img {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #1F1F1F!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #1F1F1F!important;
 }
 
 .ltc-white {
