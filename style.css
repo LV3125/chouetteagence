@@ -605,7 +605,7 @@ a[data-lightbox]:hover img {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background: rgba(0,0,0,.3);
 }
 
 .bg-lines-h2-bg {
