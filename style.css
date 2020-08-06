@@ -517,7 +517,7 @@ a[data-lightbox]:hover img {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #364577!important;
 }
 
 .bgc-atomic-tangerine {
