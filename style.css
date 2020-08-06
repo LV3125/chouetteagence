@@ -513,7 +513,7 @@ a[data-lightbox]:hover img {
 }
 
 .bgc-white {
-    background-color: #FFFFFF;
+    background-color: #FFFFFF!important;
 }
 
 .bgc-dark-slate-blue {
@@ -521,7 +521,7 @@ a[data-lightbox]:hover img {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F3976C!important;
 }
 
 .tc-white {
